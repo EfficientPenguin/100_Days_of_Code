@@ -1,0 +1,102 @@
+[
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Video Games",
+        "question": "Minecraft can be played with a virtual reality headset.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Liechtenstein does not have an airport.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science: Computers",
+        "question": "Early RAM was directly seated onto the motherboard and could not be easily removed.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Cartoon &amp; Animations",
+        "question": "Blue Danube was one of the musical pieces featured in Disney&#039;s 1940&#039;s film Fantasia.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science &amp; Nature",
+        "question": "Frederick Banting and John Macleod won a Nobel Prize for their contributions to the scientific fields of quantum mechanics.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Books",
+        "question": "Dracula is destroyed by contact with sunlight",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Television",
+        "question": "Klingons express emotion in art through opera and poetry.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment: Video Games",
+        "question": "In &quot;Team Fortress 2&quot;, the &quot;Bill&#039;s Hat&quot; is a reference to the game &quot;Dota 2&quot;.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+            "True"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment: Film",
+        "question": "Actor Tommy Chong served prison time.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    },
+    {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General Knowledge",
+        "question": "In Scandinavian languages, the letter &Aring; means river.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+            "False"
+        ]
+    }
+]
