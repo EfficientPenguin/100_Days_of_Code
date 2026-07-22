@@ -1,0 +1,41 @@
+The goal of this exercise is to style certain font properties
+of an HTML file that was provided by Dr. Angela Yu
+in day 44 of the 100 days of code.
+
+
+##### HTML ####
+<body>
+    <h1>Important CSS Properties</h1>
+    <p id="color">Color</p>
+    <p id="font size">Font Size</p>
+    <p id="font weight">Font Weight</p>
+    <p id="font family">Font Family</p>
+    <p id="text align">Text Align</p>
+</body>
+
+##### CSS ####
+#color {
+    color:"coral";
+}
+
+#"font size" {
+    font-size:2rem;
+}
+
+#"font weight" {
+    font-weight:900;
+}
+
+#"font family" {
+    font-family:'Caveat', cursive;
+    font-weight:normal;
+}
+
+#"text align" {
+    text-align:right-align;
+}
+
+html {
+    font-size:30px;
+}
+

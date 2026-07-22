@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Box Model</title>
+    <style>
+        .box {
+            width:200px;
+            height:200px;
+            border-style: solid;
+        }
+        #green {
+            background-color: cadetblue;
+            padding:20px;
+            border-width: 10px;
+        }
+
+        #yellow {
+            background-color: gold;
+            border-width:20px 10px;
+            margin-left: 260px;
+        }
+
+        #red {
+            background-color: indianred;
+            border-width:10px;
+            margin-left: 40px;
+        }
+
+        p {
+            margin: 0px;
+        }
+    </style>
+</head>
+<body>
+    <div class="box" id="green">
+        <p>Lorem ipsum dolor sit amet,  Aenean sodales felis  fringilla pellentesque tellus id, elementum elementum augue. Praesent nulla tellus, ornare facilisis finibus ac, consequat non est. Nam sit amet tincidunt nulla. Maecenas aliquam nulla a lacus consequat, sed elementum nibh pulvinar.</p> 
+    </div>
+    <div class="box" id="yellow"></div>
+    <div class="box" id="red"></div>
+</body>
+</html>
