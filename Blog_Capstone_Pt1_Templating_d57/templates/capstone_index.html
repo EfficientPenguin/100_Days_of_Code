@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Capstone Home</title>
+    <link rel="stylesheet" href="static/capstone_css.css">
+</head>
+<body>
+    <h1>My Blog</h1>
+    {% for blog_post in posts: %}
+    <div class="blog-post">
+        <h1>{{blog_post['title']}}</h1>
+        <h2>{{blog_post['subtitle']}}</h2>
+        <a href="{{ url_for('get_blog_content', blog_id=blog_post['id']) }}"> Read</a>
+    </div>
+    {% endfor %}
+</body>
+</html>

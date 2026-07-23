@@ -1,0 +1,13 @@
+h1 {
+    font-size: 36pt;
+    font-style: italic;
+}
+
+.blog-post {
+    border-style: solid;
+    border: 20pt 20pt 20pt 20pt;
+    border-color: blue;
+    border-width: 5pt;
+    margin: 20pt;
+    text-align: center;
+}
